@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amr Sameh</h1>
-<h3 align="center">Experienced software engineer with 5+ years of experience developing web applications. Skilled in software design, development, and testing, with a focus on usability and performance. Strong track record of delivering high-quality code on time.</h3>
+<h3 align="center">Senior Software Engineer specializing in web application development and system architecture. Demonstrated expertise in designing and implementing scalable solutions with a strong focus on code quality, performance optimization, and user experience. Passionate about leveraging cutting-edge technologies to create innovative solutions that drive business value.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amr-sameh&label=Profile%20views&color=0e75b6&style=flat" alt="amr-sameh" /> </p>
 
